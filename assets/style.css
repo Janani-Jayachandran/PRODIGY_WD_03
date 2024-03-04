@@ -7,17 +7,23 @@
 
 body{
     height:100vh;
-    background: linear-gradient(135deg, #51bcca, #c35bec) ;
+    background: linear-gradient(135deg, #51bcca, #ddec5b) ;
 }
 
 html{
     font-size: 16px;
 }
 
+h1{
+    margin-left: 40%;
+    margin-top: 0.2%;
+    font-size: 40px;
+    color: #041b31;
+}
 .wrapper{
     position: absolute;
     transform: translate(-50%,-50%);
-    top:50%;
+    top:55%;
     left:50%;
 }
 
